@@ -1,3 +1,6 @@
+DEPRECATED, all code is now here: https://github.com/relinc/SurePulse
+
+
 [![Build Status](https://travis-ci.org/relinc/DataFileParser.svg?branch=master)](https://travis-ci.org/relinc/DataFileParser)
 
 # DataFileParser
